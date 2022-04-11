@@ -1,0 +1,5 @@
+User-agent: Googlebot
+User-agent: *
+Disallow: /js
+Disallow: /css
+Host: youngleen.github.io
